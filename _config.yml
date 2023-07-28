@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 政教的博客
+title: Ya的博客
 subtitle: 探索未知的领域、开启新视界
 description: 欢迎来到政教的博客！在这里，让我们一起探寻未知领域，包括加密货币、技术、科学、文化、产品、大事件、人工智能、旅游、美食等等。我的目标是为读者提供有趣、有用、有启发性的内容，自我成长，一起开启新视界。
 keywords:
@@ -16,7 +16,7 @@ keywords:
   - 人工智能
   - 旅游
   - 美食
-author: ZJ
+author: Ya
 language: zh-CN
 timezone: Asia/Hong_Kong
 
