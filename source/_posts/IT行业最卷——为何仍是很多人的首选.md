@@ -2,7 +2,7 @@
 title: IT行业最卷——为何仍是很多人的首选
 date: 2023-07-28 00:15:00
 categories:
-  - IT
+  - [IT行业]
 tags:
   - IT行业
   - 高薪
