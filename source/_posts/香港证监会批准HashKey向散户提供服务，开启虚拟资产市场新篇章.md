@@ -3,7 +3,7 @@ title: 香港证监会批准HashKey向散户提供服务，开启虚拟资产市
 date: 2023-08-04 17:10:00
 categories:
   - [区块链]
-  - [加密货币]
+  - [区块链,加密货币]
 tags:
   - HashKey Exchange
   - 香港虚拟资产交易
