@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://zhengjiao.netlify.app/sitemap.xml
+Sitemap: https://www.dagangya.top/sitemap.xml
