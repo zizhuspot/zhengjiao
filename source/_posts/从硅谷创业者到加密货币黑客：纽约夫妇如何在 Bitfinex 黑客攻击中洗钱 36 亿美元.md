@@ -2,7 +2,7 @@
 title: 从硅谷创业者到加密货币黑客：纽约夫妇如何在 Bitfinex 黑客攻击中洗钱 36 亿美元
 date: 2023-08-07 11:18:00
 categories:
-  - 加密货币
+  - 区块链
 tags:
   - Bitfinex
   - 区块链
