@@ -2,9 +2,8 @@
 title: 从ChatGPT到WorldCoin——马斯克前合伙人会给Web3带来惊喜吗
 date: 2023-07-28 13:10:00）
 categories:
-  - [Web3]
-  - [ChatGPT]
-  - [Worldcoin]
+  - [区块链,Web3]
+  - [人工智能,ChatGPT]
 tags:
   - Web3加密项目
   - chatGAT
