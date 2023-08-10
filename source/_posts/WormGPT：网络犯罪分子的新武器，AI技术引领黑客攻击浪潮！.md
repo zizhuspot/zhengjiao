@@ -1,5 +1,5 @@
 ---
-title: WormGPT：网络犯罪分子的新武器，AI技术引领黑客攻击浪潮！
+title: WormGPT：AI技术成网络犯罪分子的新武器
 date: 2023-07-28 09:18:00）
 categories:
   - [信息安全,网络攻击]
