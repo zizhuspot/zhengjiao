@@ -3,7 +3,6 @@ title: 数字资产投资陷阱：NFT市场与浪漫欺诈骗局
 date: 2023-08-07 23:41:00
 categories:
   - [区块链,加密货币]
-  - [信息安全]
 tags:
   - BTC
   - NFT
