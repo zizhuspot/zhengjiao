@@ -1,6 +1,6 @@
 
 ---
-title: 构筑安全的网络堡垒——AdGuard Home全屋广告拦截与隐私保护
+title: AdGuard Home全屋广告拦截与隐私保护
 date: 2023-07-27 23:02:00
 categories:
   - [信息安全,AdGuard Home]
