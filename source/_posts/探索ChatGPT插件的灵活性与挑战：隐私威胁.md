@@ -2,7 +2,6 @@
 title: 探索ChatGPT插件的灵活性与挑战：隐私威胁
 date: 2023-08-02 13:05:00
 categories:
-  - [人工智能,OpenAI]
   - [人工智能,ChatGPT]
 tags:
   - 人工智能
