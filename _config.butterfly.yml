@@ -34,7 +34,7 @@ code_word_wrap: true
 # formal:
 #   icon: link || the description || color
 social:
-  fab fa-github: https://github.com/zizhuspot/zhengjiao || Github || '#24292e'
+  fab fa-github: https://github.com/zizhuspot/www.dagangya.top || Github || '#24292e'
   fas fa-envelope: mailto:luozhu2021@gmail.com || Email || '#4a7dbe'
   fab fa-twitter: https://twitter.com/luozhu2021 || Twitter || '#00acee'
 
@@ -166,7 +166,7 @@ toc:
 post_copyright:
   enable: true
   decode: false
-  author_href: https://github.com/zizhuspot/zhengjiao
+  author_href: https://github.com/zizhuspot/www.dagangya.top
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
@@ -184,7 +184,7 @@ post_edit:
   enable: true
   # url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
-  url: https://github.com/zizhuspot/zhengjiao/edit/main/source/
+  url: https://github.com/zizhuspot/www.dagangya.top/edit/main/source/
 
 # Related Articles
 related_post:
@@ -237,7 +237,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/zizhuspot/zhengjiao
+      link: https://github.com/zizhuspot/www.dagangya.top
   card_announcement:
     enable: true
     content: A simple and elegant blog
@@ -497,7 +497,7 @@ twikoo:
 # Giscus
 # https://giscus.app/
 giscus:
-  repo: zizhuspot/zhengjiao
+  repo: zizhuspot/www.dagangya.top
   repo_id: R_kgDOJ9bN6A
   category_id: DIC_kwDOJ9bN6M4CX_yL
   theme:
@@ -841,7 +841,7 @@ note:
 # It may contain bugs and unstable, give feedback when you find the bugs.
 # https://github.com/MoOx/pjax
 pjax:
-  enable: true
+  enable: false
   exclude:
     # - xxxx
     # - xxxx

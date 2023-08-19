@@ -104,7 +104,7 @@ cover:
 
 ```sh
 # 克隆仓库
-$ git clone https://github.com/zizhuspot/zhengjiao.git
+$ git clone https://github.com/zizhuspot/www.dagangya.top.git
 # 安装依赖
 $ yarn install
 # 运行

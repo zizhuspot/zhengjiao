@@ -91,10 +91,7 @@ f.选择"Long”(多头) 或"short”(空头) 来开仓
 
 1.SLP为用户向流动性池提供流动性的凭证，质押后有多种方式产生收益点击“Earn”进入页面，在“Liquidity”中“Buy”下面框里输入你想要支付的金额，会在下方显示预计收到的SLP数量 (注意: 注意这里展示的SLP数量和费用是一个预估值，倒计时结束才能完成购买 )购买成功后SLP会被展示在下方的信息栏中，用户需要点击“Claim”按钮来提取购买完成的SLP
 
-![image](https://github.com/zizhuspot/zhengjiao/assets/134364698/4d559462-6c63-4464-af5a-7fcf41e0b132)
+![image](https://github.com/zizhuspot/www.dagangya.top/assets/134364698/4d559462-6c63-4464-af5a-7fcf41e0b132)
 
 
 此次测试网活动总共准备了超过100万枚主网代币，将发放给参与测试网交互的用户 另外还有最高价值10万U的Bug Bounty，奖励那些为项目提供建议的用户,教程结束
-
-
-
