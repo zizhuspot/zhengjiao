@@ -10,7 +10,7 @@ description: Shein and Temu fight a lawsuit.Fierce opponents, too hard to defend
 cover: https://s2.loli.net/2023/09/22/9rJoOMQF3PcIDd4.png
 ---
 
-SHEIN, Temu fight lawsuit battle, opponents are fierce and it's too hard to defend towers
+## SHEIN, Temu fight lawsuit battle, opponents are fierce and it's too hard to defend towers
 
 The conflict between SHEIN and Temu has resurfaced, and this time the battle has spread to the UK.
 
