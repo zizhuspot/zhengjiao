@@ -93,5 +93,4 @@ f.选择"Long”(多头) 或"short”(空头) 来开仓
 
 ![image](https://github.com/zizhuspot/www.dagangya.top/assets/134364698/4d559462-6c63-4464-af5a-7fcf41e0b132)
 
-
 此次测试网活动总共准备了超过100万枚主网代币，将发放给参与测试网交互的用户 另外还有最高价值10万U的Bug Bounty，奖励那些为项目提供建议的用户,教程结束
