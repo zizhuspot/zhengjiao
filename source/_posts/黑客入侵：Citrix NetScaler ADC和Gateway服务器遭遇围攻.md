@@ -2,18 +2,16 @@
 title: 黑客大规模网络攻击：Citrix NetScaler ADC和Gateway服务器
 date: 2023-08-04 09:15:00）
 categories:
-  - [信息安全,黑客技术]
+  - 信息安全
 tags:
   - 网络安全
   - 黑客攻击技术
   - CVE-2023-3519
   - CVE-2023-24489
   - Citrix NetScaler ADC
-  - Gateway服务器
 description: 数百台Citrix NetScaler ADC和网关服务器遭恶意入侵，Web shell大规模部署
 cover: https://s2.loli.net/2023/08/04/SqQUs39VhbACPMk.png
 ---
-
 
 ![image.png](https://s2.loli.net/2023/08/04/kbZmopWRrM5iPfB.png)
 
