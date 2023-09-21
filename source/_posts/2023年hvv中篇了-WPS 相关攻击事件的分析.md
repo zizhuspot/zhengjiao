@@ -2,9 +2,10 @@
 title: 2023年护网行动-WPS 相关攻击事件的分析
 date: 2023-08-18 22:46:00
 categories:
-  - [信息安全,2023年hvv行动]
+  - 信息安全
 tags:
   - WPS漏洞
+  - 2023年hvv行动
   - 恶意代码
 description: 微步在线终端 EDR OneSEC 捕获到利用 WPS 进行攻击的事件，该事件会导致：攻击者可以通过 WPS 的相关服务创建恶意文件并执行恶意代码。该事件从 8 月 14 号开始陆续影响了多家企业和单位的少量员工终端电脑，攻击者通过运行阿里云云助手或伪装成阿里云云助手的木马程序，对该终端电脑进行控制。
 cover: https://github.com/zizhuspot/www.dagangya.top/assets/134364698/ef634ad6-fe4b-4cc4-a997-0b839ca383aa
