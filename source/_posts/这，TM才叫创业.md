@@ -10,11 +10,9 @@ description: 以后啊，谁劝我去创业，我也不干了。不创业，后�
 cover: https://github.com/zizhuspot/www.dagangya.top/assets/134364698/31c99143-a71d-4abe-8a8f-ea2a11264687
 
 ---
-
 ## “我真是疯了，才会去创业。”
 
 ## “以后啊，谁劝我去创业，我也不干了。不创业，后悔两年，创了业，后悔一辈子。”
-
 
 最近，越来越多人在谈论创业时频繁提到以下话题：
 
@@ -68,7 +66,6 @@ cover: https://github.com/zizhuspot/www.dagangya.top/assets/134364698/31c99143-a
 
 ![image](https://github.com/zizhuspot/www.dagangya.top/assets/134364698/842a8828-bd3c-4efd-8905-304b74328b1d)
 
-
 **创新精神**
 
 创业是一切事情的起点。
@@ -112,8 +109,6 @@ cover: https://github.com/zizhuspot/www.dagangya.top/assets/134364698/31c99143-a
 但仅有创业精神足以成功吗？
 
 并不一定。
-
-
 
 **创业的现实**
 
@@ -199,7 +194,6 @@ cover: https://github.com/zizhuspot/www.dagangya.top/assets/134364698/31c99143-a
 
 ![image](https://github.com/zizhuspot/www.dagangya.top/assets/134364698/77b2ec83-cd27-477e-bb9f-a0976415c37a)
 
-
 **创业的现实**
 
 一开始，你有了一个激动人心的创业点子。
@@ -282,7 +276,6 @@ cover: https://github.com/zizhuspot/www.dagangya.top/assets/134364698/31c99143-a
 
 以下是已经经过清洗和编辑的文章：
 
-
 **创业的现实**
 
 在一个企业创立初期，最重要的事情是首先取得成果，兑现对客户的承诺。
@@ -351,8 +344,6 @@ cover: https://github.com/zizhuspot/www.dagangya.top/assets/134364698/31c99143-a
 
 生活会一点点变好的。
 
-
-
 **创始人的陷阱**
 
 企业渐渐进入佳境。
@@ -416,7 +407,6 @@ cover: https://github.com/zizhuspot/www.dagangya.top/assets/134364698/31c99143-a
 希望这个版本对您有所帮助。如果您还需要进一步修改或有其他需求，请随时告诉我。
 
 ![image](https://github.com/zizhuspot/www.dagangya.top/assets/134364698/f3d5dedd-2edc-424f-b4dc-a15aaf0deff2)
-
 
 **建立管理制度**
 
@@ -533,7 +523,6 @@ cover: https://github.com/zizhuspot/www.dagangya.top/assets/134364698/31c99143-a
 这时，“价值观”的力量可能派上用场。
 
 ![image](https://github.com/zizhuspot/www.dagangya.top/assets/134364698/66b4ee04-fe1e-4331-b21e-7183dc6d1f56)
-
 
 **企业腐化和衰老**
 
@@ -675,7 +664,6 @@ cover: https://github.com/zizhuspot/www.dagangya.top/assets/134364698/31c99143-a
 这有助于避免企业早期失败的情况。
 
 ![image](https://github.com/zizhuspot/www.dagangya.top/assets/134364698/a0aab28f-bad5-4e1a-90e4-92e71c5b983d)
-
 
 **避免创始人陷阱**
 
