@@ -2,18 +2,14 @@
 title: 亚马逊云的安全漏洞揭秘：AWS Systems Manager Agent遭攻击！
 date: 2023-08-03 19:22:00
 categories:
-  - [信息安全,漏洞]
+  - 信息安全
 tags:
-  - 网络安全
-  - 网络攻击
+   - 网络攻击
   - AWS
   - SSM代理
   - 木马
   - 云安全
-  - Linux
-  - Windows
-  - EC2
-description: 网络安全研究人员最近在亚马逊云平台（AWS）中发现了一种新的后渗透攻击，利用AWS系统管理器代理（SSM代理）作为远程访问木马在Windows和Linux环境中运行。这种攻击方式让攻击者可以在安装SSM代理的端点上获得高权限访问，并持续进行恶意活动，给云环境带来严重威胁。
+ description: 网络安全研究人员最近在亚马逊云平台（AWS）中发现了一种新的后渗透攻击，利用AWS系统管理器代理（SSM代理）作为远程访问木马在Windows和Linux环境中运行。这种攻击方式让攻击者可以在安装SSM代理的端点上获得高权限访问，并持续进行恶意活动，给云环境带来严重威胁。
 cover: https://s2.loli.net/2023/08/03/XnUpGhgPvT1JaEl.png
 ---
 
