@@ -2,14 +2,9 @@
 title: Clop勒索大规模数据盗窃：收入高达1亿美元
 date: 2023-07-28 12:00:00
 categories:
-  - [信息安全,网络安全]
-  - [黑灰色产业,勒索盗窃]
+  - 信息安全
 tags:
   - 勒索软件
-  - 赎金
-  - 渗透测试
-  - 社工
-  - 赎金
   - 盗窃活动
 description: Clop勒索软件团伙预计通过勒索大规模MOVEit数据盗窃活动的受害者获得7500万到1亿美元的收入
 cover: https://s2.loli.net/2023/07/28/7jKCJgvdpWFXbhB.png
