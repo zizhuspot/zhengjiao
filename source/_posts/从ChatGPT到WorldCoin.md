@@ -2,12 +2,11 @@
 title: 从ChatGPT到WorldCoin——马斯克前合伙人会给Web3带来惊喜吗
 date: 2023-07-28 13:10:00）
 categories:
-  - [人工智能,ChatGPT]
+  - 人工智能
 tags:
   - Web3加密项目
   - chatGAT
   - OpenAI
-  - 传奇的硅谷故事
 description: 在7月24日，Web3加密项目WorldCoin正式宣布上线，这个项目的目标是通过全球大规模收集虹膜数据，来进行个人身份的证明，从而推动下一个十亿级人口进入Web3领域。
 cover: https://s2.loli.net/2023/07/28/O8pGgX6UoFijW4s.png
 ---
@@ -92,7 +91,3 @@ Sam本人在博客中表达了对于世界秩序、财富分配、政府治理�
 尽管ChatGPT目前取得了成功，但仍受到一些AI担忧者的反对。至于Worldcoin和其他几个项目，目前还没有展现出明显的进展。因此，实现这个宏大理想仍然是遥远而困难的。
 
 Worldcoin能否克服困难，Sam的宏大理想能否实现，这一切还需要进一步观察。未来的发展令人拭目以待。
-
-
-
-
