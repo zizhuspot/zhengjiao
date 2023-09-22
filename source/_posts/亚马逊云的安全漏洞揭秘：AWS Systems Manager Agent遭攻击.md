@@ -8,7 +8,7 @@ tags:
   - AWS
   - 云安全
 description: 网络安全研究人员最近在亚马逊云平台（AWS）中发现了一种新的后渗透攻击，利用AWS系统管理器代理（SSM代理）作为远程访问木马在Windows和Linux环境中运行
-cover: https://s2.loli.net/2023/08/03/XnUpGhgPvT1JaEl.png)
+cover: https://s2.loli.net/2023/08/03/XnUpGhgPvT1JaEl.png
 ---
 
 ![image.png](https://s2.loli.net/2023/08/03/XfbrvsmuoJ4nw9k.png)
