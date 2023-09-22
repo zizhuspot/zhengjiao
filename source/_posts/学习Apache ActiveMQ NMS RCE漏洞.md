@@ -5,7 +5,8 @@ categories:
   - 信息安全
 tags:
   - Apache ActiveMQ NMS-RCE漏洞
-description: 描述
+description: https://github.com/zizhuspot/www.dagangya.top/assets/134364698/3a7671db-8009-470a-81bb-c76c5bfce3b6
+
 ---
 # Apache ActiveMQ NMS-RCE漏洞信息
 
