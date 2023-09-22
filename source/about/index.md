@@ -1,25 +1,23 @@
 ---
-title: 关于
+title: About
 date: 2023-07-16 15:54:03
 ---
 
-## 我是谁
+## Who I am
 
-你好，我是Ya。我是一位不知名的网络从业者，热爱黑科技、人工智能、加密货币、创业、赚钱等等相关的。我在这里分享我的经验和见解，也希望能够与更多人交流和学习。
+Hi, I'm Oscar. i'm a front-end development programmer with a passion for technology and programming. I'm here to share my experience and insights and hope to connect and learn from as many people as possible.
 
-## 我的经历
+## My Experience
 
-我在网络安全、创业、网赚等方面有着丰富的经验。在这段时间里，我学到了很多，也遇到了很多挑战。但正是这些经历让我成长并塑造了我的个性和价值观。
+I have extensive experience in cryptocurrencies. During this time, I have learned a lot and encountered many challenges. But it is these experiences that have allowed me to grow and shape my personality and values.
 
-## 我的使命
+## My Mission
 
-我相信传达自由生活是我们每个人都应该追求的。我的使命是通过我的工作和生活方式来实现这些价值观，并帮助更多的人找到自己的使命和价值。
+I believe that technology changing the world is something we should all strive for. My mission is to realize these values through my work and lifestyle, and to help as many people as possible find their own calling and values.
 
-## 联系我
+## Contact Me
 
-如果您有任何问题或建议，请随时与我联系。您可以通过以下方式找到我：
+If you have any questions or suggestions, please feel free to contact me. You can find me in the following ways:
 
-- 电子邮件：yadagangya@gmail.com
-- 社交媒体：tg：@yadagangya
-
-感谢您访问我的网站！
+- Email: yadagangya@gmail.com
+- Social Media: tg：@yadagangya
