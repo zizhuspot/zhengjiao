@@ -1,5 +1,5 @@
 ---
-title: Compatible with Android, no MFi certification required? Detailed explanation of the truth of Apple iPhone 15 for C port
+title: Compatible with Android, no MFi certification required? Detailed explanation of the truth of Apple iPhone 15 for USB-C port
 date: 2023-09-7 12:00:00
 categories:
   - Hotspot
