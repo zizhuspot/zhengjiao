@@ -1,6 +1,6 @@
 ---
 title: Shein and Temu fight a lawsuit
-date: 发布时间（格式：2023-07-17 20:00:00）
+date: 2023-07-17 20:00:00
 categories:
   - Venture Capital
 tags:
