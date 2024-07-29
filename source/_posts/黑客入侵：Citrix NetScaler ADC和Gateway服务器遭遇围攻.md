@@ -1,6 +1,6 @@
 ---
 title: 黑客大规模网络攻击：Citrix NetScaler ADC和Gateway服务器
-date: 2023-08-04 09:15:00）
+date: 2023-08-04 09:15:00
 categories:
   - 信息安全
 tags:

@@ -17,7 +17,7 @@ menu:
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
-  Friends: /link/ || fas fa-link
+  # Friends: /link/ || fas fa-link
   About: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
@@ -172,11 +172,11 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: true
+  enable: false
   QR_code:
-    - img: https://cdn.jsdelivr.net/gh/youngjuning/images/wechat.png
+    - img:
       # link:
-      text: 微信打赏
+      # text: 微信打赏
 
 # Post edit
 # Easily browse and edit blog source code online.
@@ -599,7 +599,6 @@ ad:
   index: <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4963807055498900" data-ad-host="ca-host-pub-1012064661720050" data-ad-format="auto" data-full-width-responsive="true" data-override-format="true" data-page-url="https://pantip.com"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
   aside: <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4963807055498900" data-ad-host="ca-host-pub-1012064661720050" data-ad-format="auto" data-full-width-responsive="true" data-override-format="true" data-page-url="https://pantip.com"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
   post: <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4963807055498900" data-ad-host="ca-host-pub-1012064661720050" data-ad-format="auto" data-full-width-responsive="true" data-override-format="true" data-page-url="https://pantip.com"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-
 
 # Verification (站長驗證)
 # --------------------------------------
